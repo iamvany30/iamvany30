@@ -40,12 +40,6 @@
 ---
 
 
-### 🏆 Достижения:
-
-![Трофеи](https://github-profile-trophy.vercel.app/?username=iamvany30&theme=gruvbox&no-frame=true&row=1&column=7)
-
----
-
 ### 💡 Цели на 2025 год:
 
 - 🚀 Запустить крупный проэкта.
